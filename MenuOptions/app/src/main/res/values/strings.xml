@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">按menu键弹出菜单选项!</string>
+        <string name="exit">退出</string>
+    <string name="app_name">MenuOptions</string>
+    
+</resources>
